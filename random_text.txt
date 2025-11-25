@@ -1,115 +1,59 @@
-1: computer code commit hello github program control world update text software repository computer hello.
-2: text commit create commit generate control hello generate control update version hello version.
-3: github github commit create create edit control code computer text version text.
-4: file code text repository file program.
-5: generate repository code github repository repository computer github!
-6: control data commit file hello program program create computer code update system world control code.
-7: hello code program software data data code control computer create random!
-8: edit control hello file code system edit update update system repository file system random?
-9: hello update text system update world world.
-10: edit control software update program system system!
-11: control repository software computer hello generate commit update edit update version github github!
-12: control code version control world program edit update!
-13: generate github github hello program data update repository system hello system software github program system.
-14: system github random update hello random control?
-15: control commit create world repository text code data data text code software software.
-16: version data software world generate random github world version code random update hello.
-17: system data control create system repository github control random world repository software commit repository?
-18: software random file system edit commit data world computer software.
-19: computer version github computer github!
-20: file update text version version commit github code repository generate code!
-21: file random create text github code control github data github code control data!
-22: version hello control update world program update edit.
-23: hello hello system hello hello system random generate system?
-24: program world create update hello?
-25: hello control hello repository random create hello update repository?
-26: hello random software update text program hello random world system world create control commit?
-27: commit program github program hello system github control create control file text create computer random!
-28: system world hello control control system file commit computer?
-29: repository system code control program edit control system.
-30: hello control generate hello code program create hello?
-31: control file generate data control software text version control edit program create hello system!
-32: github data code commit create hello commit commit computer system world edit edit data commit!
-33: update repository commit file file random commit random computer create generate hello data control generate!
-34: update repository control repository generate system!
-35: repository text control hello commit data text!
-36: commit github edit file computer create control software software edit computer file data!
-37: program data github update program text!
-38: create file random computer repository create create!
-39: program text text create edit generate control generate edit generate random computer?
-40: create edit update data github control generate hello program software edit repository random update!
-41: code random text edit repository system repository commit text software commit version!
-42: computer create update update system version world repository file commit version edit code commit world.
-43: file software create generate generate program edit world control software generate world!
-44: version version system version control github version text control?
-45: control data software commit edit commit text create?
-46: world random file generate code generate github file repository data update control edit generate commit?
-47: github world repository text program edit hello random world system random.
-48: github create repository software world generate edit text control random.
-49: edit generate github repository code text generate program version text control!
-50: program version software program control generate world control data commit text create.
-51: random control world computer program system generate data repository?
-52: software hello file software version edit control random world!
-53: data repository edit hello text.
-54: hello github text repository create data system generate generate random!
-55: github control edit hello control text.
-56: file edit random computer github edit text software hello generate code commit create computer software?
-57: commit data repository code generate update software code computer generate edit.
-58: program world random version computer random text commit system hello random create data system file.
-59: update world create file control code computer software!
-60: repository text version software edit text file create.
-61: random edit control software create repository code commit file data update update github commit code!
-62: commit world software code code!
-63: repository code random update create!
-64: control commit text update code software file github commit computer?
-65: update control computer hello generate computer!
-66: text system repository program commit update repository.
-67: github control data github github software generate edit program github computer world computer!
-68: commit github code program system commit github commit?
-69: text github version control update repository random text software github generate hello system file commit!
-70: hello code control repository control program?
-71: data version world commit update system hello edit hello edit version code software random?
-72: generate control version program hello version file?
-73: code repository file computer create hello control?
-74: generate file control system hello text.
-75: github random code github text code control update system repository random commit generate?
-76: program world random random update github program!
-77: code random control update data commit software repository.
-78: code edit version world file commit update computer github version github commit random github?
-79: text system random program update code computer update text computer system update.
-80: repository control generate commit commit commit create edit.
-81: computer text update control program.
-82: create version file control software create!
-83: random update system software file system file random update!
-84: commit code program update update github commit hello!
-85: hello code control update computer update generate code code hello computer world create.
-86: data world github code hello github commit!
-87: computer control world world repository control code commit text software software data text version.
-88: version computer system software data edit control?
-89: program system random data update repository world version version data program text update version!
-90: hello generate file computer repository.
-91: edit world control computer version commit hello random edit software system file program generate text!
-92: data github edit code file control?
-93: system create software computer computer software hello create.
-94: system update github control repository create github edit software system update software!
-95: code file generate hello code system generate control.
-96: world world data code edit version repository data github commit repository computer version!
-97: computer edit control update github computer version computer!
-98: create create software hello generate hello.
-99: computer control create hello data system program software world program repository code!
-100: repository system data update random file software edit create github system edit computer computer generate.
-101: program create computer random software!
-102: version text system random hello github computer software data control edit?
-103: text edit software version create program?
-104: generate software random random random version code?
-105: version data computer computer github create computer edit.
-106: github control random edit create software edit version commit update create?
-107: data data random program random commit world software repository program random file system?
-108: edit software update random program edit commit file hello repository create code?
-109: control program generate generate generate data edit world computer file system edit edit.
-110: random create github world file generate system world repository.
-111: version text commit system version create update code program control text text code software.
-112: software data file commit version hello.
-113: create computer random software create file control?
-114: create computer text system create system github computer commit text data data edit hello?
-115: hello world version control software text version repository!
+1: program computer file generate commit random program!
+2: data data version software github github software?
+3: version update generate data hello generate random github version commit github edit code update world?
+4: computer github update edit world edit file version?
+5: text file file code create.
+6: version update update update edit generate code github software repository code data text?
+7: world update file random file control commit software random hello control hello code repository commit!
+8: random github github create repository computer repository software?
+9: github text version hello commit.
+10: computer repository create create random software software control generate data?
+11: commit program code update update github software program hello hello control.
+12: repository generate create software program file text github random create version?
+13: computer computer software version computer version computer github computer generate?
+14: world program hello text program data?
+15: github github commit version code text edit file hello code data software generate!
+16: generate software file github update control create create hello computer.
+17: hello generate control create repository generate world github code data control?
+18: repository code repository code random file data hello!
+19: computer edit create text repository text update software edit?
+20: edit system update program system github data data data repository github software data edit software.
+21: world update code software hello create text.
+22: computer update version code system data control commit hello data software?
+23: program code control system update.
+24: github random create control generate random system text update repository code.
+25: random system github random program computer hello.
+26: random random control software random?
+27: create file file repository computer commit.
+28: code program world system hello text text software world?
+29: software software code edit control system text control file create hello commit?
+30: hello code data repository program edit hello!
+31: file hello system text update file file software file random repository edit github?
+32: github generate control text text generate control program generate generate commit software commit?
+33: computer generate text data text world program create generate control text control generate program!
+34: repository hello text software software!
+35: program text commit repository random data github system edit file world text commit!
+36: control github data edit hello github system github edit version generate data program file?
+37: text repository system file create file computer edit file.
+38: text commit code edit text hello file!
+39: create text program edit computer data commit?
+40: code world commit computer edit data create control?
+41: commit world update update world update program.
+42: edit commit github edit system random edit random program?
+43: random file software update control program control text!
+44: update program generate file generate data data data code?
+45: commit generate version data software version random commit create update software update update!
+46: control edit control random computer system software data commit github hello?
+47: hello generate software file control data system text create!
+48: text file github commit file code text version generate control repository file repository!
+49: hello program commit software data code program text!
+50: file repository generate system computer world data system software hello text program control generate?
+51: world file file file system edit create data create create!
+52: computer program create edit data version file text edit data github update control program hello.
+53: hello code edit system edit software system file version control text generate hello control software.
+54: program github github create github computer generate program?
+55: software update version system update system random github world computer data computer repository?
+56: repository repository update update control github text system create random data update software github random.
+57: hello github computer commit version software code file edit control!
+58: code control github update software random file update software!
+59: text generate computer software control hello version repository repository system code commit text program world?
