@@ -1,1 +1,6 @@
 commitfile.py
+.gitignore
+build
+dist
+commitfile.spec
+autocommit.py
